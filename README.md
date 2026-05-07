@@ -3,21 +3,22 @@ A centralized repository to reference material and resources included in the boo
 
 
 
-## 🔗 Content Links
+## 🔗 Resource Links
 
-| Repository | Link |
-|------------|------|
-| c-bootcamp | [C Programming Language](https://github.com/SAFCSP-Team/c-bootcamp) |
-| bitwise    | [Bitwise and Numbering Systems](https://github.com/SAFCSP-Team/bitwise) |
+|  Repository                                                         | Description                  |
+|---------------------------------------------------------------------|------------------------------|
+| [C Programming Language](https://github.com/SAFCSP-Team/c-bootcamp) | A comprehensive reference guide for C programming language fundamentals and advanced concepts |
+| [Bitwise and Numbering Systems](https://github.com/SAFCSP-Team/bitwise) | A reference guide for numbering systems, bitwise operations, and binary arithmetic |
+| [Class Projects & Examples](https://github.com/SAFCSP-Team/zo-class-projects)| A collection of bootcamp class projects and code examples |
 
 
 
 
-## 📝 Important Note
+## 🤝 Contributing
+Here, we build a community! Help us improve and expand these resources by:
 
-**These repositories are updated frequently** with new content, improvements, and enhancements. 
+- 📝 Opening an **Issue** to report problems or suggest improvements
+- 🔄 Submitting a **Pull Request** with your contributions
 
-**For any feedback or suggestions**: 
-- 📝 Open an [Issue](../../issues) to report problems or suggest improvements
-- 💬 Share feedback in [Discussions](../../discussions)
-- 🔄 Submit a Pull Request with your contributions
+> [!NOTE]
+> The resources are updated frequently.
