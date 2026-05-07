@@ -7,8 +7,8 @@ A centralized repository to reference material and resources included in the boo
 
 | Repository | Link |
 |------------|------|
-| c-bootcamp | [https://github.com/SAFCSP-Team/c-bootcamp](https://github.com/SAFCSP-Team/c-bootcamp) |
-| bitwise    | [https://github.com/SAFCSP-Team/bitwise](https://github.com/SAFCSP-Team/bitwise) |
+| c-bootcamp | [C Programming Language](https://github.com/SAFCSP-Team/c-bootcamp) |
+| bitwise    | [Bitwise and Numbering Systems](https://github.com/SAFCSP-Team/bitwise) |
 
 
 
