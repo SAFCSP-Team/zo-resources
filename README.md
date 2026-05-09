@@ -5,7 +5,7 @@ A centralized repository to reference material and resources included in the boo
 
 ## 🔗 Resource Links
 
-|  Repository                                                         | Description                  |
+|  Resource                                                         | Description                  |
 |---------------------------------------------------------------------|------------------------------|
 | [C Programming Language](https://github.com/SAFCSP-Team/c-bootcamp) | A comprehensive reference guide for C programming language fundamentals and advanced concepts |
 | [Bitwise and Numbering Systems](https://github.com/SAFCSP-Team/bitwise) | A reference guide for numbering systems, bitwise operations, and binary arithmetic |
